@@ -77,7 +77,7 @@
 }
 
 body {
-  background-color: rgba(129, 148, 130, 0.575);
+  background-color: rgb(167, 167, 167);
   margin: 0;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
@@ -11721,6 +11721,11 @@ body {
   padding: 2rem 2rem;
   border-radius: 1rem
 }
+.titulo{
+  background-color:#bcbebf;
+  margin-bottom: 1rem;
+  border-radius: 1rem
+}
 .botones{
   margin-top: 1rem;
   width: 100%;
@@ -11732,4 +11737,8 @@ body {
 .botones a{
   text-decoration: none;
   color: #000;
+}
+.mapa{
+  padding: 3rem 1rem;
+  background-color:#d1d2d4;
 }
