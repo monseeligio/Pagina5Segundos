@@ -11731,7 +11731,7 @@ body {
   width: 100%;
   float: right;
   height: 5rem;
-  background-color:#51d6b5;
+  background-color:var(--bs-gray-300);
   border:none;  
 }
 .botones a{
@@ -11741,5 +11741,5 @@ body {
 .mapa{
   padding: 2rem 1rem;
   background-color:var(--bs-gray-200);
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
