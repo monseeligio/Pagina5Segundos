@@ -77,7 +77,7 @@
 }
 
 body {
-  background-color: rgb(167, 167, 167);
+  background-color:#fff;
   margin: 0;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
@@ -11707,7 +11707,7 @@ body {
 }
 
 .fondoVa{
-  background-color: #22BB9C;
+  background-color: #51d6b5;
   border-radius: 50%;
   margin-right: 1rem;
   width: 2rem;
@@ -11716,13 +11716,13 @@ body {
 
 
 .ubi{
-  background-color:#d3d6d8;
+  background-color:var(--bs-gray-200);
   margin-bottom: 1rem;
   padding: 2rem 2rem;
   border-radius: 1rem
 }
 .titulo{
-  background-color:#bcbebf;
+  background-color:#51d6b5;
   margin-bottom: 1rem;
   border-radius: 1rem
 }
@@ -11731,7 +11731,7 @@ body {
   width: 100%;
   float: right;
   height: 5rem;
-  background-color:#FFFFFF;
+  background-color:#51d6b5;
   border:none;  
 }
 .botones a{
@@ -11739,6 +11739,7 @@ body {
   color: #000;
 }
 .mapa{
-  padding: 3rem 1rem;
-  background-color:#d1d2d4;
+  padding: 2rem 1rem;
+  background-color:var(--bs-gray-200);
+  margin-bottom: 4rem;
 }
